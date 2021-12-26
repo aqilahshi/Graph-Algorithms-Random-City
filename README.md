@@ -9,4 +9,5 @@ Function 3: Allow the user to select two vertices and compute the shortest path 
 between random cities until the path exists. Print the shortest path.
 
 Include an additional function to RESET the graph to default.
+
 Include an additional function for the user to REMOVE EDGES of their choice.
